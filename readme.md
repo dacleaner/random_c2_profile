@@ -1,3 +1,7 @@
+## TO DO
+
+Add wordlist with 90's lyrics. random add in here.  
+
 # Random C2 Profile Generator
 
 Cobalt Strike random C2 Profile generator
